@@ -18,12 +18,12 @@
   },
   "labels":{
     "ner":[
-      "ANIMALS/LIVING BEING",
       "CAUSE",
       "CLIMATE EVENT",
-      "COUNTRY/LOCATION",
       "CURRENCY",
       "DISASTER",
+      "LIVING BEING",
+      "LOCATION",
       "ORGANIZATION",
       "TEMPERATURE",
       "YEAR"
